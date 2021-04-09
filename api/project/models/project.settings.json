@@ -19,6 +19,9 @@
       "collection": "technology",
       "via": "projects",
       "dominant": true
+    },
+    "slug": {
+      "type": "string"
     }
   }
 }
