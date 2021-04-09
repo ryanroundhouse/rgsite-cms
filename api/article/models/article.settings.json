@@ -24,10 +24,6 @@
       "plugin": "upload",
       "required": true
     },
-    "published_at": {
-      "type": "date",
-      "required": true
-    },
     "category": {
       "model": "category",
       "via": "articles"
