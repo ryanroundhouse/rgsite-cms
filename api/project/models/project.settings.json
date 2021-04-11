@@ -22,6 +22,12 @@
     },
     "slug": {
       "type": "string"
+    },
+    "github": {
+      "type": "string"
+    },
+    "date": {
+      "type": "date"
     }
   }
 }
