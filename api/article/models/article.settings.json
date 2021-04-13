@@ -30,6 +30,9 @@
     },
     "slug": {
       "type": "string"
+    },
+    "date": {
+      "type": "date"
     }
   }
 }
