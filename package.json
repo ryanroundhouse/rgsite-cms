@@ -40,7 +40,7 @@
     "uuid": "STRAPI-STARTER-BLOG"
   },
   "engines": {
-    "node": ">=10.0.0",
+    "node": "12.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
