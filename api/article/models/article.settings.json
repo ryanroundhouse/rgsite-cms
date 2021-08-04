@@ -36,6 +36,10 @@
     },
     "excerpt": {
       "type": "string"
+    },
+    "published_at": {
+      "type": "date",
+      "required": true
     }
   }
 }
