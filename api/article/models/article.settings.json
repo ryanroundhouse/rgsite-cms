@@ -39,7 +39,7 @@
     },
     "published_at": {
       "type": "date",
-      "required": true
+      "required": false
     }
   }
 }
